@@ -36,9 +36,6 @@ Based on the system flowchart, the virtual microcontroller processes data sequen
 4. Click the **Run** arrow (or press `Ctrl + R`) on the top toolbar.
 5. Interact with the Front Panel controls (Tank level slider, Turbidity slider, pH dial, and TDS dial) to test the automated logic and see when the system decides to distribute or drain the water.
 
-## 📸 System Interface
-*(Drag and drop the screenshot of your LabVIEW Water Quality Front Panel here!)*
-
 ## 👥 Team Members
 **Addis Ababa Science and Technology University (AASTU)**  
 *College of Engineering | Electro-Mechanical Engineering Department*
